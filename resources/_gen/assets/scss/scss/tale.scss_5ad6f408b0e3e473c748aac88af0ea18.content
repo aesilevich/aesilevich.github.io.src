@@ -490,9 +490,6 @@ footer {
   color: #555;
   display: inline-block;
   padding: 2rem 0; }
-  .catalogue-item:hover .catalogue-line,
-  .catalogue-item:focus .catalogue-line {
-    width: 5rem; }
   .catalogue-item:last-child {
     border: 0; }
 
