@@ -1,0 +1,7 @@
+baseURL = "https://aesilevich.github.io"
+#languageCode = "ru"
+title = "Esil Blog"
+theme = "tale"
+disqusShortname = "aesilevich-github-io"
+#pygmentsUseClassic = true
+pygmentsStyle = "vs"
